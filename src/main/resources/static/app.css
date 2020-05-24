@@ -1,0 +1,20 @@
+body{
+    /*background-color: #efefef;*/
+    background-image: url("image.jpg");
+}
+span.spacing{
+    margin-right: 10px;
+}
+input.custom-width{
+    width: 200px;
+}
+input.spacing{
+    margin-right: 5px;
+}
+
+
+.center {
+  text-align: center;
+  border: 3px hidden #73AD21;
+  padding: 10px;
+}

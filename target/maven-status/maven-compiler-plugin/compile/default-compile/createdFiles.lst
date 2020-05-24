@@ -1,0 +1,16 @@
+xyg/testapi/userinfo/UserInfoRepository.class
+xyg/testapi/userinfo/UserInfoService.class
+xyg/testapi/TestapiApplication.class
+xyg/testapi/ticketinfo/TicketInfoService.class
+xyg/testapi/ticketinfo/TicketInfo.class
+xyg/testapi/userinfo/UserInfo.class
+xyg/testapi/processmatch/ProcessMatchRepository.class
+xyg/testapi/ticketinfo/TicketInfoController.class
+xyg/testapi/TestapiApplication$1.class
+xyg/testapi/ticketinfo/TicketInfoAPI.class
+xyg/testapi/processmatch/ProcessMatchAPI.class
+xyg/testapi/processmatch/ProcessMatchService.class
+xyg/testapi/processmatch/ProcessMatch.class
+xyg/testapi/ticketinfo/TicketInfoRepository.class
+xyg/testapi/userinfo/UserInfoAPI.class
+xyg/testapi/ticketinfo/DataSourceConfig.class
